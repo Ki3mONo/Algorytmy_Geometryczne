@@ -1,0 +1,14 @@
+Program kmak_kod_3.ipynb wymaga środowiska przygotowanego przez KN BIT
+
+GIFy napomknięte w sprawozdaniu zostały zapakowane do kmak_gifs.zip i wymagają odpakowania.
+---------------------
+---------------------
+---------------------
+Legenda GIFów triangulacji:
+---------------------
+Punkty niebieskie: Punkty należące do lewego łańcucha.
+Punkty czerwone: Punkty należące do prawego łańcucha.
+Punkty żółte: Rozpatrzone punkty.
+Punkty szare: Wszystkie punkty wielokąta, nieprzypisane jeszcze do żadnego łańcucha.
+Zielone odcinki: Dodane przekątne, tworzące trójkąty w procesie triangulacji.
+Czarne linie: Początkowe krawędzie wielokąta, przed rozpoczęciem procesu triangulacji.
