@@ -1,0 +1,25 @@
+Program kmak_kod_2.ipynb wymaga środowiska przygotowanego przez KN BIT
+
+GIFy napomknięte w sprawozdaniu zostały zapakowane do gifs.zip i wymagają odpakowania.
+---------------------
+---------------------
+---------------------
+Legenda GIFów:
+---------------------
+Dla algorytmu Grahama:
+Punkty czerwone - leżące na stosie w danej chwili (być może należące do otoczki)
+Punkty różowe - wykluczone z otoczki
+Punkty czarne - punkty jeszcze nierozpatrzone przez algorytm
+Punkty szare - punkty które są "duplikatami kątowymi", usunięte podczas sortowania
+	       nie są rozpatrywane w dalszej części algorytmu - po posortowaniu
+Zielone odcinki - krawędzie otoczki(niekoniecznie poprawnej) w danej chwili
+---------------------
+---------------------
+Dla algorytmu Jarvisa:
+Punkty czerwone - należące do otoczki
+Punkty różowe - rozpatrywane w kolejnych krokach pętli for, chwilowo umieszczone 
+		w otoczce, do czasu znalezienia faktycznego kolejnego punktu
+Punkty czarne - punkty nienależące do otoczki i niebędące ani przez chwilę kandydatami
+Zielone odcinki - krawędzie otoczki
+Niebieskie odcinki - krawędzie punktu kandydata wcielanego do otoczki (jeżeli znika, to 
+		     znaczy, że znaleziono punkt na prawo od tego odcinka)
