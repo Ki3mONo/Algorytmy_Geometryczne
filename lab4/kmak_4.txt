@@ -1,0 +1,17 @@
+Program kmak_kod_4.ipynb wymaga środowiska przygotowanego przez KN BIT
+
+GIFy napomknięte w sprawozdaniu zostały zapakowane do kmak_gifs.zip i wymagają odpakowania.
+---------------------
+---------------------
+---------------------
+Legenda dla wizualizacji przecięć odcinków:
+---------------------
+Punkty niebieskie: Punkty początkowe odcinków, oznaczone dla identyfikacji podczas analizy.
+Punkty jasnoniebieskie: Punkty końcowe odcinków, wskazujące zakończenie każdego segmentu.
+Czarne odcinki: Początkowe segmenty wprowadzane do analizy, oznaczone na samym początku wizualizacji.
+Pomarańczowa linia pionowa: Pozycja miotły w trakcie przetwarzania bieżącego zdarzenia.
+Zielone odcinki: Odcinki które kiedykolwiek znalazły się  w strukturze stanu
+Żółte odcinki: Segmenty, które są aktualnie rozpatrywane
+Czerwone odcinki: Odcinki, które mają przecięcia w bieżącym kroku obliczeń.
+Czerwone punkty: Punkty przecięcia odcinków, dodane do wyniku końcowego.
+Szare pionowe linie: Historia pozycji miotły w poprzednich krokach, użyta do śledzenia dynamiki procesu.
