@@ -1,0 +1,1 @@
+Program kmak_kod_1.ipynb wymaga środowiska przygotowanego przez KN BIT
